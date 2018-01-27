@@ -1,6 +1,6 @@
 # Binder repo for the Jupyter 'Hello World' widget
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PierreMarion23/jupyter-widget-hello-world-binder/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PierreMarion23/jupyter-widget-hello-world-binder/master?filepath=hello_world.ipynb)
 
 The notebook is adapted from the official Jupyter [doc](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Custom.html), and serves demonstration purposes. 
 The Jupyter documentation describes in detail how to build a widget which prints in the output cell the contents of a string set from the back end. In this notebook, we summarize the doc and present the main steps leading to the construction of this widget. We also go a little further and add interactivity in this widget. 
